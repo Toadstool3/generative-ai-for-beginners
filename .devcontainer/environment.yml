@@ -1,7 +1,7 @@
-name: <environment-name>
+name: <Toadstool3>
 channels:
  - defaults
 dependencies:
-- python=<python-version>
+- python=<3.9.13>
 - openai
 - python-dotenv
